@@ -201,3 +201,30 @@ nav a:hover {
         font-size: 1.5rem;
     }
 }
+
+footer {
+    margin-top: 5rem;
+    background-color: whitesmoke;
+    padding: 1rem;
+    color: black;
+    font-size: 1.5rem;
+    box-shadow: 0px -2px 10px rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+
+footer a {
+    color: #B9540C;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+
+
+footer a:hover {
+    color: #BEB8AF;
+}
