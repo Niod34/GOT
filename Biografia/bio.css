@@ -16,7 +16,7 @@ body {
     overflow-x: hidden;
     color: #BEB8AF;
     background-color: #FCFEF0;
-    
+
 }
 
 header {
@@ -37,7 +37,7 @@ header {
 }
 
 .GOT a {
-    
+
     font-family: a;
     font-size: 2.5rem;
     color: #B9540C;
@@ -120,4 +120,3 @@ footer a {
 footer a:hover {
     color: #BEB8AF;
 }
-
